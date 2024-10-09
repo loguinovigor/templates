@@ -8,7 +8,7 @@ public class Main {
                 .setAddress("petya")
                 .build();
 
-        // Создаем ребенка на основе данных родителя
+        // Создаем ребенка на основе данных родителя///
         Person son = mom.newChildBuilder()
                 .setName("Антошка")
                 .build();
